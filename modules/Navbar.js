@@ -32,6 +32,6 @@ const Navbar = () => {
     addnewb.classList.remove('active');
     contactb.classList.add('active');
   });
-}
+};
 
 export default Navbar;
