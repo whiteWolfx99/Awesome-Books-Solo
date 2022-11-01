@@ -1,4 +1,4 @@
-function Navbar() {
+const Navbar = () => {
   const listb = document.getElementById('list-b');
   const addnewb = document.getElementById('addnew-b');
   const contactb = document.getElementById('Contact-b');
