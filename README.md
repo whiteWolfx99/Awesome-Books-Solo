@@ -7,10 +7,10 @@ In this project, you will restructure your Awesome books app code. The goal is t
 
 ## Project requirements
 
-- Setup your project:
+- Setup your project.
 - Use ES6.
-- Display the current date below the navigation bar
-
+- Display the current date below the navigation bar.
+- For this requirement you should use a library Luxon.
 
 ## Built With
 

@@ -1,4 +1,4 @@
-function Navbar() {
+const Navbar = () => {
   const listb = document.getElementById('list-b');
   const addnewb = document.getElementById('addnew-b');
   const contactb = document.getElementById('Contact-b');
@@ -32,6 +32,6 @@ function Navbar() {
     addnewb.classList.remove('active');
     contactb.classList.add('active');
   });
-}
+};
 
 export default Navbar;
